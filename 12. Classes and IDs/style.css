@@ -1,0 +1,17 @@
+ h1 {
+    font-size: 60px;
+}
+p {
+    font-size: 20px;
+}
+
+#title {
+    font-size: 28px;
+    color: #333;
+}
+
+
+.description {
+    font-size: 18px;
+    color: #666;
+}
